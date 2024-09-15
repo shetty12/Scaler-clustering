@@ -9,16 +9,18 @@ Hierarchical Clustering: Using a dendrogram to visualize the distance between da
 Agglomerative Clustering: Grouping data points into clusters using bottom-up hierarchical clustering.
 The objective of the project is to demonstrate how these clustering methods can be applied to any dataset and to explore how clusters can be formed based on the inherent structure of the data.
 
-Technologies Used
+_Technologies Used_
 Programming Language: Python 3.9
 Key Libraries:
 pandas: For data manipulation and analysis
 matplotlib: For visualizing dendrograms and other plots
 scipy: For hierarchical clustering.
 sklearn: For agglomerative clustering and other machine learning tasks.
+
 Data Preprocessing
 The notebook begins with preprocessing the data, which includes:
 Data Cleaning: Handling missing values, outliers, and formatting issues.
+
 Normalization: Scaling numerical features to ensure clustering metrics are meaningful.
 
 Feature Selection: Choosing relevant features for clustering, depending on the dataset at hand.
