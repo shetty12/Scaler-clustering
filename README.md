@@ -16,7 +16,6 @@ pandas: For data manipulation and analysis
 matplotlib: For visualizing dendrograms and other plots
 scipy: For hierarchical clustering.
 sklearn: For agglomerative clustering and other machine learning tasks.
-
 Data Preprocessing
 The notebook begins with preprocessing the data, which includes:
 Data Cleaning: Handling missing values, outliers, and formatting issues.
