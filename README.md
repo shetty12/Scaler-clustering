@@ -13,7 +13,11 @@ The objective of this project is to demonstrate these clustering methods on a da
 **Technologies Used**
 **Programming Language**: Python 3.9
 **Libraries**:
+
 **pandas**: For data manipulation and analysis.
+
 **matplotlib**: For data visualization and plotting.
+
 **scipy**: For hierarchical clustering methods.
+
 **scikit-learn**: For implementing agglomerative clustering.
