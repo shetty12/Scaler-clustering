@@ -8,7 +8,8 @@ This project focuses on performing clustering analysis using hierarchical and ag
 Clustering is an unsupervised machine learning technique that groups data points based on their features. This project demonstrates how to use Hierarchical Clustering and Agglomerative Clustering to cluster a dataset into meaningful groups. By visualizing the clusters, we can identify patterns in the data that may not be immediately obvious.
 
 **Key Steps Involved**:
-Data Preprocessing: Cleaning and transforming the dataset to make it suitable for clustering.
+
+**Data Preprocessing**: Cleaning and transforming the dataset to make it suitable for clustering.
 
 **Hierarchical Clustering**: Building a dendrogram to visualize how clusters are formed based on the data's distance matrix.
 
