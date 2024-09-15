@@ -47,7 +47,7 @@ Proper preprocessing ensures that the clustering algorithms can perform effectiv
 
 **Agglomerative Clustering**:
 
-**Method**: A specific type of hierarchical clustering that groups data points based on their Euclidean distance. The number of clusters is predefined (in this case, 3).
+**Method**: A specific type of hierarchical clustering that groups data points based on their Euclidean distance. The number of clusters is predefined (in this case, 3):
 **Tool**: The AgglomerativeClustering class from sklearn is used to group data points into clusters.
 **Outcome**: Each data point is assigned a cluster label, allowing for analysis of the groupings.
 
