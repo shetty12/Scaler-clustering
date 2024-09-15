@@ -1,5 +1,7 @@
 Clustering Analysis Project
-This project demonstrates the application of clustering techniques to identify natural groupings in a dataset using Python's data science libraries. The project utilizes both hierarchical and agglomerative clustering techniques to analyze and visualize the data.
+
+This project demonstrates the application of clustering techniques to identify natural groupings in a dataset using Python's data science libraries. 
+The project utilizes both hierarchical and agglomerative clustering techniques to analyze and visualize the data.
 
 Table of Contents
 Project Overview
