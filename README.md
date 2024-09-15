@@ -33,6 +33,8 @@ The notebook begins with preprocessing the data, which includes:
 
 Proper preprocessing ensures that the clustering algorithms can perform effectively and accurately.
 
+
+
 **Clustering Techniques**
 
 **Hierarchical Clustering**:
@@ -51,12 +53,16 @@ Proper preprocessing ensures that the clustering algorithms can perform effectiv
 
 **Outcome**: Each data point is assigned a cluster label, allowing for analysis of the groupings.
 
+
+
 **Results**
 
 **Hierarchical Clustering**: A dendrogram was created to visualize the merging process of data points and clusters. This allowed us to understand the relationships between different data points and select an appropriate number of clusters.
 
 **Agglomerative Clustering**: The dataset was divided into three clusters, each containing data points with similar characteristics.
 The results provide insights into the underlying structure of the data, which can help in tasks such as customer segmentation, anomaly detection, or general data exploration.
+
+
 
 **Use Cases**
 *Clustering techniques are highly versatile and can be applied in various industries, including:
